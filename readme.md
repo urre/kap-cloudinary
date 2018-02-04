@@ -13,8 +13,10 @@
 
 ## Usage
 
-In the editor, after recording, select one of the export formats, and then `Share on Cloudinary`.
+In the editor, after recording, select Export GIF, and then `Share on Cloudinary`.
 
+![](https://res.cloudinary.com/urre/image/upload/v1517761076/g2nc31oyuapdpcdzd21h.png)
+![](https://res.cloudinary.com/urre/image/upload/v1517761090/b9ctth74qkbe2rikqwja.png)
 
 ## License
 
