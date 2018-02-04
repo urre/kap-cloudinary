@@ -16,6 +16,7 @@ const action = async context => {
 	const upload = cloudinary.uploader.upload(`${filePath}`);
 
 	const response = await upload;
+
 	context.copyToClipboard(response.secure_url);
 	context.notify('Cloudinary URL copied to the clipboard');
 };
