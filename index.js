@@ -29,19 +29,16 @@ const cloudin = {
 		cloud_name: {
 			title: 'Cloud Name',
 			type: 'string',
-			default: '',
 			required: true
 		},
 		api_key: {
 			title: 'API Key',
 			type: 'string',
-			default: '',
 			required: true
 		},
 		api_secret: {
 			title: 'API Secret',
 			type: 'string',
-			default: '',
 			required: true
 		}
 	}
