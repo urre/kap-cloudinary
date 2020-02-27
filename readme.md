@@ -6,14 +6,21 @@
 ## Install
 In the Kap menu, go to Preferences…, select the Plugins pane, find this plugin, and click Install.
 
-![](https://res.cloudinary.com/urre/image/upload/v1517760753/brcwhi2rhi4fcofb1arj.png)
+![](https://res.cloudinary.com/urre/image/upload/v1582828909/Ska%CC%88rmavbild_2020-02-27_kl._19.39.54_fxvguo.jpg)
+
+![](https://res.cloudinary.com/urre/image/upload/v1582828942/Ska%CC%88rmavbild_2020-02-27_kl._19.39.41_udlayq.jpg)
+
+## Configure
+
+![](https://res.cloudinary.com/urre/image/upload/v1582828978/Ska%CC%88rmavbild_2020-02-27_kl._19.39.09_nl5mab.jpg)
+
+Fill in your Cloudinary API Credentials
 
 ## Usage
 
 In the editor, after recording, select Export GIF, and then `Share on Cloudinary`.
 
-![](https://res.cloudinary.com/urre/image/upload/v1517761076/g2nc31oyuapdpcdzd21h.png)
-![](https://res.cloudinary.com/urre/image/upload/v1517761090/b9ctth74qkbe2rikqwja.png)
+![](https://res.cloudinary.com/urre/image/upload/v1582828869/Ska%CC%88rmavbild_2020-02-27_kl._19.40.55_uacsgg.jpg)
 
 ## License
 

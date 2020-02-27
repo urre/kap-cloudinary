@@ -34,9 +34,10 @@
   "xo": {
     "rules": {
       "camelcase": [
-          2, {
-            "properties": "never"
-          }
+        2,
+        {
+          "properties": "never"
+        }
       ]
     }
   }
