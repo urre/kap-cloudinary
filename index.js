@@ -23,7 +23,7 @@ const action = async context => {
 
 const cloudin = {
 	title: 'Share to Cloudinary',
-	formats: ['gif'],
+	formats: ['gif', 'mp4', 'webm', 'apng'],
 	action,
 	config: {
 		cloud_name: {
